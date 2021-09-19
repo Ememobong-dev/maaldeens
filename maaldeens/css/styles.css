@@ -1,4 +1,4 @@
-@import("https://fonts.googleapis.com/css?family=Poppins");
+@import url("https://fonts.googleapis.com/css?family=Poppins");
 
 
 * {
@@ -738,7 +738,7 @@ header .container .row .col-md-6 .port-info .header-sub-image img:hover{
         margin-top: 27px;
         margin-bottom: 23px;
         position: relative;
-        left: 90%;
+        /* left: 90%; */
     }
 	
     .navbar-toggler[aria-expanded="false"] span:nth-child(2) {
